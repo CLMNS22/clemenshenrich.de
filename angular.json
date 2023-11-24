@@ -55,7 +55,8 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "browserTarget": "clemenshenrich.de:build"
             },
             "development": {
               "optimization": false,
